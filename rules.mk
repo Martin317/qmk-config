@@ -47,7 +47,7 @@ COMBO_ENABLE = yes
 ### OLED_ENABLE {{{
 # https://docs.qmk.fm/#/feature_oled_driver?id=basic-configuration
 OLED_ENABLE  = yes
-OLED_DRIVER = SSD1306
+# OLED_DRIVER = SSD1306
 # test de oled
 # OLED_TIMEOUT = 3500
 # OLED_FADE_OUT = yes
